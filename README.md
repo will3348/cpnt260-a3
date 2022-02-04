@@ -13,3 +13,5 @@ I changed to ``` grid-template-coloum: repeat(auto-fit,minmax(.....))``` fix the
 - Photo by Ron Lach from Pexels.
 - Photo by salman hossain saif from Pexels.
 - Photo by ric anada from Pexels.
+### what line in your css or html is your flare at?
+In style.css , line 49.
