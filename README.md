@@ -1,8 +1,8 @@
 # cpnt260-a3
 Author name: Will Tengyuan Li
 ### Links to:
-Github Repo
-Github Pages Site
+Github Repo https://github.com/will3348/cpnt260-a3
+Github Pages Site https://will3348.github.io/cpnt260-a3/
 ### Reflection
 At very begining, I used ``` grid-template-coloum: repeat(3,minmax(.....))```. I found that I can layout the gallery,but it wouldn't be responsed.
 ### How did you approach solving it
